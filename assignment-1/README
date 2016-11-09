@@ -1,0 +1,9 @@
+
+  Usage: bookstore [options]
+
+  Options:
+
+    -h, --help            output usage information
+    -V, --version         output the version number
+    -T, --Title [string]  Title of the book
+
